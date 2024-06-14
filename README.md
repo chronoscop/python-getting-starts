@@ -51,9 +51,9 @@ This repository contains Jupyter notebooks to help beginners learn Python. The n
    Alternatively, if you have Git installed, you can clone the repository by running:
 
    ```bash
-   git clone https://github.com/chronoscop/python-getting-started-guide.git
+   git clone https://github.com/chronoscop/python-getting-starts.git
    ```
-
+   
 #### 4. Create and Activate a Virtual Environment
 
 1. Open Anaconda Prompt (Windows) or Terminal (MacOS/Linux).
