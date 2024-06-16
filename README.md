@@ -83,7 +83,7 @@ This repository contains Jupyter notebooks to help beginners learn Python. The n
 #### 5. Open the Notebooks in VSCode
 
 1. Open Visual Studio Code.
-2. Open the folder containing the cloned repository by clicking on `File > Open Folder` and selecting the folder.
+2. Open the folder containing the cloned repository by clicking on `File > Open Folder` and selecting the folder where you downloaded it.
 3. Open the desired notebook file (e.g., `python_getting_starts.ipynb`). The file should open in a new tab with Jupyter Notebook functionality.
 4. Ensure you are using the correct Python interpreter by selecting the Anaconda environment. You can do this by clicking on the Python version displayed in the bottom left corner of the VSCode window and selecting the Anaconda interpreter.
 
